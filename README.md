@@ -73,5 +73,3 @@ Thank you for your contribution!
 ## Installation and Running Guide
 
 ## Contributors
-
-## License
